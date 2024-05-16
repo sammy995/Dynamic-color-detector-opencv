@@ -2,6 +2,8 @@
 
 This project is a dynamic color detection tool that can track any color in real-time from a webcam feed. The target color is specified by the user in the BGR (Blue, Green, Red) format.
 
+[Additional Details](https://www.notion.so/Portfolio-Projects-SRL-83d36d9c198b409b8ec6a798b2df68d4?p=a63d39393d4b444f964cf7bf1057dd81&pm=c)
+
 ## Features
 
 - Detects and tracks any user-specified color from the webcam feed.
